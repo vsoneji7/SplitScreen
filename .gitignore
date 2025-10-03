@@ -1,0 +1,17 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.VC.db
+*.sln
+.vscode/
+.vs/
+
+# OS/IDE noise
+.DS_Store
+Thumbs.db
+
+# If you have built plugins
+Plugins/*/Binaries/
+Plugins/*/Intermediate/

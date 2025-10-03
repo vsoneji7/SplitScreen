@@ -1,0 +1,17 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0.0",
+  "FriendlyName": "RemotePOV",
+  "Description": "Replicate lightweight camera state and render a remote player's POV locally via SceneCapture2D for true online co-op dual-view.",
+  "Category": "Networking",
+  "CreatedBy": "Vishal + ChatGPT",
+  "Modules": [
+    {
+      "Name": "RemotePOV",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ],
+  "SupportedTargetPlatforms": [ "Win64", "Linux", "Mac" ]
+}
